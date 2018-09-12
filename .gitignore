@@ -10,3 +10,6 @@ temp/
 # Gerenciadores Moodle I/O
 download.php
 upload.php
+
+# Ignorar todos os arquivos conf do Moodle I/O
+moodle.conf
