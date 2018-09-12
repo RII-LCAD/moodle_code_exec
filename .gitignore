@@ -1,0 +1,12 @@
+# Arquivos e modulos para processamento
+arquivos/
+
+# Bibliotecas e sistema integrado do Moodle I/O
+lib/
+
+# Arquivos temporarios
+temp/
+
+# Gerenciadores Moodle I/O
+download.php
+upload.php
