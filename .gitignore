@@ -13,3 +13,6 @@ upload.php
 
 # Ignorar todos os arquivos conf do Moodle I/O
 moodle.conf
+
+# Ignorar executaveis especificos das operacoes
+*jflap*.jar
